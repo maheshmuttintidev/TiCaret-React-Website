@@ -8732,9 +8732,9 @@ function HomePage() {
         i className = "fab fa-linkedin" > < /i> Linkedin < /
         p > <
         /div> < /
-        div > <
+        div > </
 	div
-        />
+        >
     )
 }
 
