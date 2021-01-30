@@ -10,7 +10,7 @@ import digitalLync from './body/digital lync logo.svg';
 import usericon from './header/user logo.svg';
 
 function HomePage() {
-    return ( <
+    return ( < div className="main"
         >
         <
         div className = "hero-container" >
@@ -8733,6 +8733,7 @@ function HomePage() {
         p > <
         /div> < /
         div > <
+	div
         />
     )
 }
