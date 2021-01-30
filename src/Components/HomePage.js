@@ -135,7 +135,7 @@ function HomePage() {
         id = "user_actions" >
         User <
         img src = { usericon }
-        className = "userIcon" /
+        className = "userIcon" alt=""/
         > <
         /
         a > <
@@ -8546,22 +8546,22 @@ function HomePage() {
         div className = "card1" >
         <
         img src = { master }
-        / > < /
+        alt=""/ > < /
         div > <
         div className = "card2" >
         <
         img src = { krack }
-        / > < /
+        alt=""/ > < /
         div > <
         div className = "card3" >
         <
         img src = { red }
-        / > < /
+        alt=""/ > < /
         div > <
         div className = "card4" >
         <
         img src = { wonderWoman }
-        / > < /
+        alt=""/ > < /
         div > <
         i className = "fas fa-angle-right" > < /i> < /
         div > <
@@ -8574,12 +8574,12 @@ function HomePage() {
         div className = "partners-images" >
         <
         img src = { digitalLync }
-        / > <
+        alt=""/ > <
         img src = { kona }
-        className = "kona" / >
+        className = "kona" alt=""/ >
         <
         img src = { kohive }
-        / > < /
+        alt=""/ > < /
         div > < /
         div > <
         /div> <
