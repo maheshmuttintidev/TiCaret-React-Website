@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import './index.css'
-import 'font-awesome'
 
 class LoginPopup extends Component {
     render() {

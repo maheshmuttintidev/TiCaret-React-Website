@@ -8,8 +8,7 @@ import kohive from './body/KOHIVE logo.svg';
 import kona from './body/kona.svg';
 import digitalLync from './body/digital lync logo.svg';
 import usericon from './header/user logo.svg';
-import LoginPopup from './LoginPopup';
-import 'font-awesome'
+import LoginPopup from './LoginPopup'; 
 
 class HomePage extends Component {
     constructor(props) {
